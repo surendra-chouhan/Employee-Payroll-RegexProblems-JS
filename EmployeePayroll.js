@@ -39,7 +39,7 @@ try {
     employeePayroll.name = "omkar";
     console.log(employeePayroll.toString());
 }
-catch(e) {
+catch(e){
     console.error(e);
 }
 
